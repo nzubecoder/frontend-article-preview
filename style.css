@@ -98,6 +98,7 @@ body{
     .main{
         display: flex;
         flex-direction: column;
+        max-width: 87%;
     }
     .beauty{
         flex-direction: column;
